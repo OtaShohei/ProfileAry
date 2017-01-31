@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
 					R.id.uti),
 
 			new Member(
-					"大石碧",
+					"XXXXX",
 					"出身は愛知県。中学時代は英語部で活動してました。この前成人式を終えたばかりの20歳です。HTMLを打てます。自宅でサーバーをたてたことも。APIを活用して2ch閲覧用のアプリを作りたい。",
 					R.id.ois),
 			new Member(
